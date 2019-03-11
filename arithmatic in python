@@ -1,0 +1,9 @@
+2 + 2
+50 - 5 * 6 # order of operations is in effect here
+8 / 5 # Division returns a floating point number, always
+17 / 3 # classic division returns a float
+17 // 3 # floor division discards the fractional part
+17 % 3 # the % (mod) operator returns the remainder of the division
+5 * 3 + 2 # result * divisor + remainder
+5 ** 2 # 5 squared
+2 ** 7 # 2 to the power of 7 (2^7)
